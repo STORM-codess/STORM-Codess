@@ -3,6 +3,13 @@ Passionate about turning data into insights and ideas into code, I’m a Compute
 ### 🔧 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn,tensorflow,streamlit,flask,fastapi,opencv,git,github,docker,aws" />
+  <!-- Skillicons (supported) -->
+  <img src="https://skillicons.dev/icons?i=python,numpy,tensorflow,flask,fastapi,opencv,git,github,docker,aws" />
+  
+  <!-- Extra icons (not on skillicons) -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0E4D92?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
